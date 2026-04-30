@@ -14,7 +14,7 @@
 
 ## 文件说明
 
-- `layered_defense_simulation.ipynb` - 主程序 Jupyter Notebook
+- `Layered_Defense.ipynb` - 主程序 Jupyter Notebook
 - `requirements.txt` - Python 依赖包列表
 - `figures/` - 生成的图片输出目录
 
